@@ -3,7 +3,7 @@ package Array_Part2;
 public class KadanesAlgo {
 
 	public static void main(String[] args) {
-		int[] arr= {-1,-2,-6,-8,-9,-2,0};
+		int[] arr= {4,5,6,7,8,-2};
 		System.out.println("The maximum sub array is :"+findMaximum(arr));
 
 	}
